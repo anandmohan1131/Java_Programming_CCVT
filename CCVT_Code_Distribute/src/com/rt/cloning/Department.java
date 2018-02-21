@@ -6,6 +6,7 @@ public class Department implements Cloneable{
 	private String dname;
 	public int getDid() {
 		return did;
+		
 	}
 	public void setDid(int did) {
 		this.did = did;

@@ -7,6 +7,7 @@ public class Employee implements Cloneable{
 		super();
 		this.eid = eid;
 		this.ename = ename;
+		
 	}
 	public int getEid() {
 		return eid;
